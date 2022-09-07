@@ -1,2 +1,2 @@
 # BlazorApp
-Tugas 2
+Nama : Samuel Sianturi///////   "tugas kelas 2"
